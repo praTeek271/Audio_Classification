@@ -1,2 +1,17 @@
 # Audio_Classification
-A repository which focuses on increasing the understanding of audio data processing using ML ( tensorflow , matplotlib)
+This Repo consists of the following files :
+- .git
+- audio_classify.ipynb
+- README.md
+
+
+
+
+- --->This is a test repository created by @prateek271
+<br><br>
+---
+<br><br>###	Features of the project:
+<br>
+
+
+- uses random module
