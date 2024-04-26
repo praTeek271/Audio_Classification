@@ -1,4 +1,4 @@
-# Audio_Classification
+# audio_classification
 This Repo consists of the following files :
 - .git
 - audio_classify.ipynb
@@ -16,4 +16,4 @@ This Repo consists of the following files :
 <br>
 
 
-- this is a test repo
+- welcome to this repo
